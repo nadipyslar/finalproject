@@ -20,3 +20,5 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+FillNewShortArray(array1, array2);
+PrintArray(array2);
